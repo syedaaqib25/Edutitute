@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226060349557",
+    "project_id": "edutitute-513cc",
+    "storage_bucket": "edutitute-513cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226060349557:android:ac93f7753486bd69f5c83c",
+        "android_client_info": {
+          "package_name": "com.example.edutitute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYh5-eRHEgrORmdL9oxQ4QwDoNQGlihC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
