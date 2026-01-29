@@ -1,7 +1,7 @@
 # Edutitute 📘
 
 **Institute App | Android (Kotlin, XML)**  
-*Sept 2024 – July 2025*
+*Since Sept 2024*
 
 ---
 
